@@ -1,0 +1,22 @@
+body {
+  background-color: #f0f0f0;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #007acc;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.test-box {
+  width: 300px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #fff;
+  border: 2px solid #007acc;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
